@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center"><b>Hi , I'm Hakan Yarman</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+I study at Istanbul University-Cerrahpasa Computer Engineering.
+Currently learning web development
+- 🌱 I’m currently learning Javascript, Css, Python, Flask.
+
+<a href="https://www.linkedin.com/in/hakan-yarman-b710b9233/" target="_blank">
+Let's connect on Linkedn 
+</a>
+
 
 <!--
 **hakanyarman/hakanyarman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
