@@ -2,11 +2,11 @@
 <br>
 I study at Istanbul University-Cerrahpasa Computer Engineering.
 <br>
-🌱 I’m currently learning web development with Javascript, Css, Python, Flask.
+🌱 I’m currently learning web development.
 <br>
 <br>
 - 📫 How to reach me: hakanyarman13@gmail.com
-- <br>
+<br>
 <a href="https://www.linkedin.com/in/hakan-yarman-b710b9233/" target="_blank">
 Let's connect on Linkedn 
 </a>
