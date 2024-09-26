@@ -2,9 +2,6 @@
 <h3 align="center">A passionate software developer from Turkey</h3>
 <h3 align="center">Istanbul University-Cerrahpasa Computer Engineering</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakanyarman" alt="hakanyarman" /></a> </p>
-
 - 👨‍💻 All of my projects are available at **https://github.com/hakanyarman?tab=repositories**
 
 - 📫 How to reach me **hakanyarman13@gmail.com**
