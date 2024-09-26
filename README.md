@@ -3,8 +3,6 @@
 <h3 align="center">Istanbul University-Cerrahpasa Computer Engineering</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hakanyarman&label=Profile%20views&color=0e75b6&style=flat" alt="hakanyarman" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakanyarman" alt="hakanyarman" /></a> </p>
 
 - 👨‍💻 All of my projects are available at **https://github.com/hakanyarman?tab=repositories**
