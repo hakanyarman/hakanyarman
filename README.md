@@ -8,7 +8,11 @@
 
 - 📄 Know about my experiences **https://hakanyarman.github.io/cv/**
 
-### Blogs posts
+  <p align="left">
+  <img src="https://c.tenor.com/Ug6cbVA1ZsMAAAAd/tenor.gif" width="300" />
+</p>
+
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
