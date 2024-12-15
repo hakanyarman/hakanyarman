@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hakan Yarman</h1>
 <p align="center">
   <span style="display: inline-block; vertical-align: middle;">Pronunciation of my name:</span>
-  <audio style="display: inline-block; vertical-align: middle;" controls>
-  <source src="https://raw.githubusercontent.com/hakanyarman/name-pronunciation/main/name.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
-</p><h3 align="center">A passionate software developer from Turkey</h3>
+  <a href="https://raw.githubusercontent.com/hakanyarman/name-pronunciation/main/name.mp3" target="_blank">
+    <button>Listen to my name</button>
+  </a>
+</p>
+<h3 align="center">A passionate software developer from Turkey</h3>
 <h3 align="center">Istanbul University-Cerrahpasa Computer Engineering</h3>
 
 - 👨‍💻 All of my projects are available at **https://github.com/hakanyarman?tab=repositories**
