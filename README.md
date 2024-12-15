@@ -2,9 +2,10 @@
 <p align="center">
   <span style="display: inline-block; vertical-align: middle;">Pronunciation of my name:</span>
   <audio style="display: inline-block; vertical-align: middle;" controls>
-    <source src="[https://raw.githubusercontent.com/hakanyarman/name-pronunciation/main/name.mp3](https://github.com/hakanyarman/name-pronunciation/raw/refs/heads/main/name.mp3)" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
+  <source src="https://raw.githubusercontent.com/hakanyarman/name-pronunciation/main/name.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 </p><h3 align="center">A passionate software developer from Turkey</h3>
 <h3 align="center">Istanbul University-Cerrahpasa Computer Engineering</h3>
 
