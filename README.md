@@ -1,12 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hakan Yarman</h1>
-<p align="center">
-  <span style="display: inline-block; vertical-align: middle;"></span>
-  <a href="https://soundcloud.com/user-654946090/name" target="_blank">
-    Pronunciation of my name ▶
-  </a>
-</p>
-
-
 <h3 align="center">A passionate software developer from Turkey</h3>
 <h3 align="center">Istanbul University-Cerrahpasa Computer Engineering</h3>
 
