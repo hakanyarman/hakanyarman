@@ -1,31 +1,91 @@
-<h1 align="center">Hi 👋, I'm Hakan Yarman</h1>
-<h3 align="center">A passionate software developer from Turkey</h3>
-<h3 align="center">Istanbul University-Cerrahpasa Computer Engineering</h3>
+<div align="center">
 
-- 👨‍💻 All of my projects are available at **https://github.com/hakanyarman?tab=repositories**
+# Hi, I'm Hakan Yarman 👋
 
-- 📫 How to reach me **hakanyarman13@gmail.com**
+### Computer Engineer · Software Engineer · Researcher
 
-- Leetcode profile: **https://leetcode.com/u/hakanyarman/**
-- Boot.dev profile: **https://www.boot.dev/u/hakanyarman**
+**TÜBİTAK BİLGEM / UEKAE**
 
-  <p align="left">
-  <img src="https://c.tenor.com/Ug6cbVA1ZsMAAAAd/tenor.gif" width="300" />
-</p>
+I design reliable frontend architectures and build full-stack applications.
 
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakan-yarman-b710b9233/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hakanyarman13)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hakanyarman/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hakanyarman13@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hakan-yarman-b710b9233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hakan-yarman-b710b9233/" height="30" width="40" /></a>
-<a href="https://medium.com/@hakanyarman13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hakanyarman13" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## About me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hakanyarman&show_icons=true&locale=en&layout=compact" alt="hakanyarman" /></p>
+- 💼 Researcher Computer Engineer at **TÜBİTAK BİLGEM / UEKAE**, focused on frontend engineering and architecture
+- 🎓 Computer Engineering graduate from **Istanbul University-Cerrahpaşa** — July 2026
+- 🧱 Interested in frontend architecture, reliable application flows, developer tools, and useful products
+- 📍 Based in **Gebze, Kocaeli, Türkiye**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hakanyarman&" alt="hakanyarman" /></p>
+## Experience
+
+- **TÜBİTAK BİLGEM / UEKAE** — Researcher Computer Engineer<br>
+  Frontend engineering and architecture for secure cryptographic device-management systems.
+- **Wite** — Web Development Intern
+- **VizierAI** — Frontend Developer
+
+## Featured projects
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [**Vakitler Menubar App**](https://github.com/hakanyarman/vakitler-mac-menubar-app) | A macOS menu bar app that displays daily prayer times and a live countdown for locations across Türkiye. | TypeScript, Electron, macOS |
+| [**IntraDraw**](https://github.com/hakanyarman/intradraw) | An offline-friendly collaborative whiteboard for closed networks, with real-time synchronization and editable exports. | JavaScript, Node.js, WebSocket |
+| [**Raspberry Pi 5 Control Center**](https://github.com/hakanyarman/raspi5-control-center) | A modular control center for monitoring and managing services, files, networking, and connected hardware. | TypeScript, React, Node.js, Docker |
+| [**Icon Vitrin**](https://github.com/hakanyarman/icon-vitrin) · [Live demo ↗](https://icon-vitrin.vercel.app) | A gallery for browsing and managing iOS app icons, including authentication, storage, and image processing. | Next.js, Supabase, Tailwind CSS |
+| [**Code Translator**](https://github.com/hakanyarman/code-translator) · [Live demo ↗](https://code-translator-black.vercel.app) | An AI-assisted application for translating source code between programming languages. | Next.js, TypeScript, Supabase, LLM API |
+
+## Production work
+
+- [**Yakaza Scientific Research Association**](https://yakaza.org.tr/) — full-stack platform for programs, announcements, and online applications
+- [**DataKapital**](https://datakapital.com/) — frontend components and an AI chatbot interface for a financial analytics platform
+
+## Tech stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,materialui,redux,tailwind,python,java,opencv,flask,nodejs,express,fastapi,spring,postgres,supabase,docker,linux,git,figma&perline=8)](https://skillicons.dev)
+
+</div>
+
+- **Frontend:** React, TypeScript, Next.js, HTML, CSS, Material UI, Tailwind CSS, shadcn/ui, Redux, Zustand
+- **Backend & data:** Node.js, Express, FastAPI, Spring Boot, PostgreSQL, MongoDB, Supabase
+- **Engineering:** Frontend architecture, REST APIs, WebSocket, authentication, accessibility, responsive design, Docker, Linux
+- **AI:** RAG, LLM API integration, AI chat interfaces
+
+## GitHub activity
+
+<div align="center">
+
+![Hakan's GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hakanyarman&theme=github_dark)
+
+<br>
+
+![Hakan's GitHub contribution streak](https://streak-stats.demolab.com?user=hakanyarman&theme=github-dark-blue&hide_border=true)
+
+<br>
+
+![Hakan's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hakanyarman&theme=github_dark)
+![Hakan's repositories by language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hakanyarman&theme=github_dark)
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hakanyarman/hakanyarman/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hakanyarman/hakanyarman/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/hakanyarman/hakanyarman/output/github-snake.svg">
+</picture>
+
+</div>
+
+<div align="center">
+
+### Let's build something useful.
+
+[View all repositories](https://github.com/hakanyarman?tab=repositories) · [Boot.dev profile](https://www.boot.dev/u/hakanyarman)
+
+</div>
